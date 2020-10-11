@@ -10,6 +10,12 @@ public class CISampleScript {
 		
 		System.out.println("Sahi Pro");
 		
+		System.out.println("jmeter");
+		
+		System.out.println("kubernetes");
+		
+		System.out.println("load runner");
+		
 		
 
 	}
