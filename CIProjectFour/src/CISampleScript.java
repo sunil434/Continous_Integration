@@ -16,6 +16,8 @@ public class CISampleScript {
 		
 		System.out.println("load runner");
 		
+		System.out.println("aws");
+		
 		
 
 	}
