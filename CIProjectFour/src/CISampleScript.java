@@ -20,6 +20,8 @@ public class CISampleScript {
 		
 		System.out.println("devops");
 		
+		System.out.println("cloud computing");
+		
 		
 
 	}
