@@ -10,7 +10,6 @@ public class CISampleScript {
 		
 		System.out.println("Sahi Pro");
 		
-		System.out.println("UFT");
 		
 
 	}
