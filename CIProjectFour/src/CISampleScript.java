@@ -18,6 +18,8 @@ public class CISampleScript {
 		
 		System.out.println("aws");
 		
+		System.out.println("devops");
+		
 		
 
 	}
